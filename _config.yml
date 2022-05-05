@@ -21,3 +21,4 @@ defaults:
 plugins:
   - jekyll-remote-theme
 remote_theme: mmistakes/minimal-mistakes
+theme: jekyll-theme-cayman
