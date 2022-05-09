@@ -12,3 +12,4 @@ gist:
 kramdown:
   math_engine: mathjax # minimum for github- pages
   syntax_highlighter: rouge # minimum for github- pages
+theme: jekyll-theme-cayman
